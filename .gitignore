@@ -1,4 +1,7 @@
+/.venv
 /venv
 .user.yml
 /logs
 logs
+/.vscode
+.python-version
